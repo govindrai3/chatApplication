@@ -1,0 +1,4 @@
+chatApplication\RedisPubSubStarter.class
+chatApplication\RedisPublisherImpl.class
+chatApplication\AppConfig.class
+chatApplication\RedisMessageListener.class
